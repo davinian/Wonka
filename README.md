@@ -3,7 +3,7 @@
 
 Have found trying to install via GitHub url may show "Error loading plugin manifest".
 
-If this happens, just download and use file://path-to-folder and it seems to load ok.
+If this happens, just download and use file://path-to-folder as this seems to load ok.
 
 
 https://keeweb.info
