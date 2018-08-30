@@ -1,5 +1,5 @@
 # Wonka
-## Orange Theme for KeeWeb
+### Orange Theme for KeeWeb
 
 https://keeweb.info
 
