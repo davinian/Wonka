@@ -1,10 +1,7 @@
 # Wonka
 ### Orange Theme for KeeWeb
 
-Have found trying to install via GitHub url may show "Error loading plugin manifest".
-
-If this happens, just download and use file://path-to-folder as this seems to load ok.
-
+If you get "Error loading plugin manifest" while installing via GitHub url, just download and use file://path-to-folder.
 
 https://keeweb.info
 
