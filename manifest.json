@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "Wonka",
+  "description": "Orange Theme for Keeweb",
+  "author": {
+    "name": "Davinian",
+    "email": "davinian@gmail.com",
+    "url": "https://github.com/davinian"
+  },
+  "resources": {
+    "css": "mAaJP51812JSuKAJg6bq/PObxs5McxOsVr666yPed2r61uvYiLkn7RskSaA4g921+0paNISOX43eTgpV91S4gHJ2YD4vghg0Vt2W+4QrXQRN2rR5bg27zjIi0p3LPCumOPrTZQ7en3Qtq1IKCUG+Wta0hU9Yupry6jzb2VzK37+KdV1zKf7UJsCNAcixRgMo53WDFftbU38+mLiRwfc3rKg3JeAh3MmgCyNcImY2DhUHPA+ZBd4weNp7IaI9XIunfGv9IMjYUk20CWf+ymvZ+hRHkIJIg43g4KVvnVUVb+pjznfm8VyFXDGZlv/ng+8lfwlxwFMm2Zf+a1RSxXWrTg=="
+  },
+  "licence": "",
+  "url": "https://github.com/davinian/Wonka",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0f3jkSFeOQ1Netv9NdU3HJDjHlO+gFihlZJ6OeSV/GO77Xj3LqTL/xs6HjOA4dVwxJ5YCLhsRuTz6AGeHFnLAUxEd5l7BEhh7E2/y3LltKwmJ0dguDQ8fsnqQbGActb+uSHv8WLy8dzOJT34yoWA+eLuCUW2bVIxg0hesw7NQ3f1qyO+CttICE4HsR5d9iG1k6Zm+0R2eJX4CtXre3kdbWPK+BPu2EnnA9KqN/p2D+8NL8a7tzl8kxJsGIVVC2X2M4VmEzvWAj4/NxZU5uw3SY57NfRXQQHLzN76C4aXjNV4iRK5KL500xbQqpLGXk0L0iitEHRuanVnTwNNa7cikwIDAQAB",
+  "license": "MIT",
+  "theme": {
+    "name": "wonka",
+    "title": "wonka"
+  }
+}
